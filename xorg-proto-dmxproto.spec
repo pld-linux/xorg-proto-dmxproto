@@ -1,12 +1,12 @@
 Summary:	DMX protocol and ancillary headers
 Summary(pl):	Nag³ówki protoko³u DMX i pomocnicze
 Name:		xorg-proto-dmxproto
-Version:	2.2
+Version:	2.2.1
 Release:	0.02
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/X11R7.0-RC0/proto/dmxproto-%{version}.tar.bz2
-# Source0-md5:	6d0cdf1481085555445429dfe54abefa
+Source0:	http://xorg.freedesktop.org/releases/X11R7.0-RC1/proto/dmxproto-%{version}.tar.bz2
+# Source0-md5:	4ad016fe64688c54730b47551e96f7c1
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
