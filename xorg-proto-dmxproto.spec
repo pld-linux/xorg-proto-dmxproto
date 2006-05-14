@@ -32,7 +32,7 @@ DMX protocol and ancillary headers.
 Nag³ówki protoko³u DMX i pomocnicze.
 
 %prep
-%setup -q -n dmxproto-X11R7.0-%{version}
+%setup -q -n dmxproto-%{version}
 
 %build
 %{__aclocal}
