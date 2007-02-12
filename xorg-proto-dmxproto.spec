@@ -1,5 +1,5 @@
 Summary:	DMX protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu DMX i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu DMX i pomocnicze
 Name:		xorg-proto-dmxproto
 Version:	2.2.2
 Release:	1
@@ -21,7 +21,7 @@ Nagłówki protokołu DMX i pomocnicze.
 
 %package devel
 Summary:	DMX protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu DMX i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu DMX i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-xproto-devel
 
