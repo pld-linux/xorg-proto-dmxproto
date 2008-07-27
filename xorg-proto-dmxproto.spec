@@ -2,7 +2,7 @@ Summary:	DMX protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu DMX i pomocnicze
 Name:		xorg-proto-dmxproto
 Version:	2.2.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/dmxproto-%{version}.tar.bz2
