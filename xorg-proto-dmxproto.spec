@@ -1,13 +1,14 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	DMX extension headers
 Summary(pl.UTF-8):	Pliki nagłówkowe rozszerzenia DMX
 Name:		xorg-proto-dmxproto
 Version:	2.3.1
-Release:	2
+Release:	2.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/dmxproto-%{version}.tar.bz2
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/dmxproto-%{version}.tar.bz2
 # Source0-md5:	4ee175bbd44d05c34d43bb129be5098a
-URL:		http://xorg.freedesktop.org/
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
 BuildRequires:	xorg-util-util-macros >= 1.3
